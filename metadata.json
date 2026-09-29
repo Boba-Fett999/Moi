@@ -1,0 +1,8 @@
+{
+  "name": "PianoScribe - Partition & Vidéo Solfège pour Pianistes",
+  "description": "Transformez n'importe quelle musique YouTube, MP3 ou MP4 en partition interactive et en vidéo solfège animée pour piano.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
